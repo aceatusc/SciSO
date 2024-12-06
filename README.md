@@ -1,4 +1,4 @@
 # SciSO
-Dataset: https://figshare.com/articles/dataset/The_SciSO_Dataset_Mining_Science_in_Stack_Overflow/
+Dataset: https://doi.org/10.6084/m9.figshare.27967092
 
 Code: We are still cleaning the codebase. Will be uploaded before Dec. 8
