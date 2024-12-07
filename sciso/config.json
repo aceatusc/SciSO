@@ -1,0 +1,230 @@
+{
+    "orchestrate": {
+        "data_path": "lmdb",
+        "db_name": "entries",
+        "db_size": 15,
+        "chunksize": 30
+    },
+    "harvest_origin": {
+        "conn_timeout": 10,
+        "read_timeout": 40,
+        "concurrent": 20,
+        "max_file_size": 60,
+        "freeze_time": 12
+    },
+    "harvest_patch": {
+        "conn_timeout": 10,
+        "read_timeout": 30,
+        "concurrent": 1,
+        "requests_per_second": 0.8,
+        "freeze_time": 12,
+        "max_file_size": 60
+    },
+    "harvest_memento": {
+        "conn_timeout": 10,
+        "read_timeout": 40,
+        "concurrent": 2,
+        "requests_per_second": 6,
+        "freeze_time": 12,
+        "max_file_size": 60
+    },
+    "harvest_grobid": {
+        "grobid_url": "http://localhost:8070",
+        "grobid_freeze_time": 3,
+        "concurrent": 5
+    },
+    "harvest_dblp": {
+        "conn_timeout": 5,
+        "read_timeout": 10,
+        "sim_threshold_l1": 0.75,
+        "sim_threshold_l2": 0.85,
+        "requests_per_second": 1,
+        "concurrent": 1,
+        "freeze_time": 1
+    },
+    "harvest_crossref": {
+        "conn_timeout": 10,
+        "read_timeout": 40,
+        "sim_threshold_l1": 0.75,
+        "sim_threshold_l2": 0.85,
+        "requests_per_second": 36,
+        "concurrent": 1,
+        "freeze_time": 1
+    },
+    "harvest_s2": {
+        "conn_timeout": 5,
+        "read_timeout": 10,
+        "sim_threshold_l1": 0.75,
+        "sim_threshold_l2": 0.85,
+        "requests_per_second": 1,
+        "concurrent": 1,
+        "freeze_time": 1
+    },
+    "harvest_openalex": {
+        "conn_timeout": 5,
+        "read_timeout": 10,
+        "sim_threshold_l1": 0.75,
+        "sim_threshold_l2": 0.85,
+        "requests_per_second": 8,
+        "concurrent": 10,
+        "freeze_time": 1
+    },
+    "harvest_extract": {
+        "concurrent": 100,
+        "metarules": {
+            "nature": {
+                "title": {
+                    "name": "h1",
+                    "class_": "c-article-title"
+                },
+                "doi": {
+                    "class_": "c-bibliographic-information__citation"
+                }
+            },
+            "oxford": {
+                "title": {
+                    "name": "h1",
+                    "class_": "article-title-main"
+                },
+                "doi": {
+                    "class_": "ww-citation-primary"
+                }
+            },
+            "cvf": {
+                "title": {
+                    "id": "papertitle"
+                }
+            },
+            "paperswithcode": {
+                "title": {
+                    "name": "title"
+                }
+            },
+            "hal": {
+                "title": {
+                    "name": "h2"
+                },
+                "doi": {
+                    "id": "citation"
+                }
+            },
+            "aaai": {
+                "title": {
+                    "name": "h1",
+                    "class_": "page_title"
+                },
+                "doi": {
+                    "name": "section",
+                    "class_": "doi"
+                }
+            },
+            "nips": {
+                "title": {
+                    "name": "h4"
+                }
+            },
+            "hindawi": {
+                "title": {
+                    "name": "h1",
+                    "class_": "articleHeader__title"
+                },
+                "doi": {
+                    "class_": "articleHeader__meta_doiLink"
+                }
+            },
+            "iacr": {
+                "title": {
+                    "name": "h3"
+                }
+            },
+            "jmlr": {
+                "title": {
+                    "name": "h2"
+                }
+            },
+            "mdpi": {
+                "title": {
+                    "name": "h1",
+                    "class_": "title"
+                },
+                "doi": {
+                    "class_": "bib-identity"
+                }
+            },
+            "openreview": {
+                "title": {
+                    "name": "h2"
+                }
+            },
+            "mlr": {
+                "title": {
+                    "name": "h1"
+                }
+            },
+            "ijcai": {
+                "title": {
+                    "name": "title"
+                }
+            },
+            "acl": {
+                "title": {
+                    "id": "title"
+                },
+                "doi": {
+                    "class_": "acl-paper-details"
+                }
+            },
+            "usenix": {
+                "title": {
+                    "name": "h2"
+                }
+            },
+            "nih": {
+                "title": {
+                    "name": "title"
+                },
+                "doi": {
+                    "id": "full-view-identifiers"
+                }
+            },
+            "ingenta": {
+                "title": {
+                    "name": "h1",
+                    "class_": "abstract-heading"
+                },
+                "doi": {
+                    "class_": "metaDataArea"
+                }
+            },
+            "plos": {
+                "title": {
+                    "id": "artTitle"
+                },
+                "doi": {
+                    "class_": "date-doi"
+                }
+            },
+            "cambridge": {
+                "title": {
+                    "name": "h1"
+                },
+                "doi": {
+                    "class_": "doi-data"
+                }
+            },
+            "ieee": {
+                "title": {
+                    "name": "title"
+                }
+            },
+            "elsevier": {
+                "title": {
+                    "id": "api_title"
+                },
+                "doi": {
+                    "id": "api_doi"
+                }
+            }
+        }
+    }
+}

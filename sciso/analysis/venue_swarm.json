@@ -1,0 +1,608 @@
+[
+{
+"id": "arXiv.org",
+"group": "",
+"num_ref": 1039,
+"h5i": ""
+},
+{
+"id": "Neural Information Processing Systems",
+"group": "",
+"num_ref": 258,
+"h5i": ""
+},
+{
+"id": "Computer Vision and Pattern Recognition",
+"group": "",
+"num_ref": 223,
+"h5i": ""
+},
+{
+"id": "International Conference on Learning Representations",
+"group": "",
+"num_ref": 201,
+"h5i": ""
+},
+{
+"id": "International Conference on Machine Learning",
+"group": "",
+"num_ref": 168,
+"h5i": ""
+},
+{
+"id": "Annual Meeting of the Association for Computational Linguistics",
+"group": "",
+"num_ref": 120,
+"h5i": ""
+},
+{
+"id": "Conference on Empirical Methods in Natural Language Processing",
+"group": "",
+"num_ref": 108,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+"group": "",
+"num_ref": 80,
+"h5i": ""
+},
+{
+"id": "PLoS ONE",
+"group": "",
+"num_ref": 76,
+"h5i": ""
+},
+{
+"id": "IACR Cryptology ePrint Archive",
+"group": "",
+"num_ref": 75,
+"h5i": ""
+},
+{
+"id": "Journal of machine learning research",
+"group": "",
+"num_ref": 68,
+"h5i": ""
+},
+{
+"id": "Very Large Data Bases Conference",
+"group": "",
+"num_ref": 67,
+"h5i": ""
+},
+{
+"id": "AAAI Conference on Artificial Intelligence",
+"group": "",
+"num_ref": 66,
+"h5i": ""
+},
+{
+"id": "IEEE International Conference on Computer Vision",
+"group": "",
+"num_ref": 62,
+"h5i": ""
+},
+{
+"id": "European Conference on Computer Vision",
+"group": "",
+"num_ref": 61,
+"h5i": ""
+},
+{
+"id": "IEEE Sensors",
+"group": "",
+"num_ref": 53,
+"h5i": ""
+},
+{
+"id": "North American Chapter of the Association for Computational Linguistics",
+"group": "",
+"num_ref": 53,
+"h5i": ""
+},
+{
+"id": "USENIX Annual Technical Conference",
+"group": "",
+"num_ref": 52,
+"h5i": ""
+},
+{
+"id": "Nature",
+"group": "",
+"num_ref": 51,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Image Processing",
+"group": "",
+"num_ref": 44,
+"h5i": ""
+},
+{
+"id": "Proceedings of the National Academy of Sciences of the United States of America",
+"group": "",
+"num_ref": 43,
+"h5i": ""
+},
+{
+"id": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+"group": "",
+"num_ref": 42,
+"h5i": ""
+},
+{
+"id": "SIAM Journal on Scientific Computing",
+"group": "",
+"num_ref": 40,
+"h5i": ""
+},
+{
+"id": "Journal of Statistical Software",
+"group": "",
+"num_ref": 38,
+"h5i": ""
+},
+{
+"id": "bioRxiv",
+"group": "",
+"num_ref": 36,
+"h5i": ""
+},
+{
+"id": "Communications of the ACM",
+"group": "",
+"num_ref": 36,
+"h5i": ""
+},
+{
+"id": "BMC Bioinformatics",
+"group": "",
+"num_ref": 36,
+"h5i": ""
+},
+{
+"id": "Information Processing Letters",
+"group": "",
+"num_ref": 35,
+"h5i": ""
+},
+{
+"id": "USENIX Security Symposium",
+"group": "",
+"num_ref": 34,
+"h5i": ""
+},
+{
+"id": "Scientific Reports",
+"group": "",
+"num_ref": 34,
+"h5i": ""
+},
+{
+"id": "IEEE Access",
+"group": "",
+"num_ref": 34,
+"h5i": ""
+},
+{
+"id": "Pattern Recognition",
+"group": "",
+"num_ref": 33,
+"h5i": ""
+},
+{
+"id": "Theoretical Computer Science",
+"group": "",
+"num_ref": 32,
+"h5i": ""
+},
+{
+"id": "International Joint Conference on Artificial Intelligence",
+"group": "",
+"num_ref": 30,
+"h5i": ""
+},
+{
+"id": "Mathematics of Computation",
+"group": "",
+"num_ref": 30,
+"h5i": ""
+},
+{
+"id": "International Conference on Computational Linguistics",
+"group": "",
+"num_ref": 30,
+"h5i": ""
+},
+{
+"id": "Bioinformatics",
+"group": "",
+"num_ref": 30,
+"h5i": ""
+},
+{
+"id": "ACM Transactions on Mathematical Software",
+"group": "",
+"num_ref": 28,
+"h5i": ""
+},
+{
+"id": "Springer ebooks",
+"group": "",
+"num_ref": 27,
+"h5i": ""
+},
+{
+"id": "Hal",
+"group": "",
+"num_ref": 27,
+"h5i": ""
+},
+{
+"id": "International Journal of Computer Vision",
+"group": "",
+"num_ref": 27,
+"h5i": ""
+},
+{
+"id": "Software, Practice & Experience",
+"group": "",
+"num_ref": 24,
+"h5i": ""
+},
+{
+"id": "Interspeech",
+"group": "",
+"num_ref": 24,
+"h5i": ""
+},
+{
+"id": "Discrete Applied Mathematics",
+"group": "",
+"num_ref": 24,
+"h5i": ""
+},
+{
+"id": "International Conference on Artificial Intelligence and Statistics",
+"group": "",
+"num_ref": 24,
+"h5i": ""
+},
+{
+"id": "Journal of the ACM",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "Neurocomputing",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "IEEE Annual Symposium on Foundations of Computer Science",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "Pattern Recognition Letters",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "Journal of the American Statistical Association",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "The Stata Journal",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "Knowledge Discovery and Data Mining",
+"group": "",
+"num_ref": 23,
+"h5i": ""
+},
+{
+"id": "Machine-mediated learning",
+"group": "",
+"num_ref": 22,
+"h5i": ""
+},
+{
+"id": "Symposium on the Theory of Computing",
+"group": "",
+"num_ref": 21,
+"h5i": ""
+},
+{
+"id": "Proceedings of the ACM on Programming Languages",
+"group": "",
+"num_ref": 21,
+"h5i": ""
+},
+{
+"id": "Methods in Ecology and Evolution",
+"group": "",
+"num_ref": 21,
+"h5i": ""
+},
+{
+"id": "International Conference on Computational Logic",
+"group": "",
+"num_ref": 21,
+"h5i": ""
+},
+{
+"id": "European Journal of Operational Research",
+"group": "",
+"num_ref": 20,
+"h5i": ""
+},
+{
+"id": "International Conference on Information Photonics",
+"group": "",
+"num_ref": 20,
+"h5i": ""
+},
+{
+"id": "Plos comput biol",
+"group": "",
+"num_ref": 20,
+"h5i": ""
+},
+{
+"id": "IEEE International Parallel and Distributed Processing Symposium",
+"group": "",
+"num_ref": 20,
+"h5i": ""
+},
+{
+"id": "IEEE transactions on computers",
+"group": "",
+"num_ref": 19,
+"h5i": ""
+},
+{
+"id": "The Web Conference",
+"group": "",
+"num_ref": 19,
+"h5i": ""
+},
+{
+"id": "Journal of computer and system sciences",
+"group": "",
+"num_ref": 18,
+"h5i": ""
+},
+{
+"id": "USENIX Symposium on Operating Systems Design and Implementation",
+"group": "",
+"num_ref": 18,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Knowledge and Data Engineering",
+"group": "",
+"num_ref": 18,
+"h5i": ""
+},
+{
+"id": "ACM-SIAM Symposium on Discrete Algorithms",
+"group": "",
+"num_ref": 18,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Medical Imaging",
+"group": "",
+"num_ref": 17,
+"h5i": ""
+},
+{
+"id": "J algorithms",
+"group": "",
+"num_ref": 17,
+"h5i": ""
+},
+{
+"id": "Statistics in Medicine",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "Physical review e statistical nonlinear and soft matter physics",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "International Conference on the Theory and Application of Cryptographic Techniques",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "IEEE International Conference on Robotics and Automation",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Neural Networks and Learning Systems",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "Journal of Artificial Intelligence Research",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "Nature Communications",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "IEEE Transactions on Visualization and Computer Graphics",
+"group": "",
+"num_ref": 16,
+"h5i": ""
+},
+{
+"id": "Computer",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Journal of Computational And Graphical Statistics",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Artificial Intelligence",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Psychological methods",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "International Conference on Pattern Recognition",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Conference of the European Chapter of the Association for Computational Linguistics",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Annual International Cryptology Conference",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "IEEE International Joint Conference on Neural Network",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "ACM-SIGPLAN Symposium on Programming Language Design and Implementation",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Transactions of the Association for Computational Linguistics",
+"group": "",
+"num_ref": 15,
+"h5i": ""
+},
+{
+"id": "Information Sciences",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition workshops",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Csur",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Remote Sensing",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Physical Review A. Atomic, Molecular, and Optical Physics",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "IEEE International Conference on Data Engineering",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Proceedings of the IEEE",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "ACM Computing Surveys",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Science of Computer Programming",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "American Statistician",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Expert systems with applications",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "International Workshop on Semantic Evaluation",
+"group": "",
+"num_ref": 14,
+"h5i": ""
+},
+{
+"id": "Symposium on Networked Systems Design and Implementation",
+"group": "",
+"num_ref": 13,
+"h5i": ""
+}
+]

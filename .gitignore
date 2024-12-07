@@ -1,0 +1,16 @@
+temp*
+.vscode/
+.idea/
+venv/
+__pycache__
+explore
+.DS_Store
+.env
+sample*
+*.log
+.python-version
+test*
+lmdb
+*.jsonl
+*manual*
+*.out

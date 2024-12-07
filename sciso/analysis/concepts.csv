@@ -1,0 +1,304 @@
+id,display_name,normalized_name,level,wikidata,parents,parent_ids
+https://openalex.org/c17744445,Political science,political science,0,https://www.wikidata.org/wiki/Q36442,,
+https://openalex.org/c138885662,Philosophy,philosophy,0,https://www.wikidata.org/wiki/Q5891,,
+https://openalex.org/c162324750,Economics,economics,0,https://www.wikidata.org/wiki/Q8134,,
+https://openalex.org/c144133560,Business,business,0,https://www.wikidata.org/wiki/Q4830453,,
+https://openalex.org/c15744967,Psychology,psychology,0,https://www.wikidata.org/wiki/Q9418,,
+https://openalex.org/c33923547,Mathematics,mathematics,0,https://www.wikidata.org/wiki/Q395,,
+https://openalex.org/c71924100,Medicine,medicine,0,https://www.wikidata.org/wiki/Q11190,,
+https://openalex.org/c86803240,Biology,biology,0,https://www.wikidata.org/wiki/Q420,,
+https://openalex.org/c41008148,Computer science,computer science,0,https://www.wikidata.org/wiki/Q21198,,
+https://openalex.org/c127313418,Geology,geology,0,https://www.wikidata.org/wiki/Q1069,,
+https://openalex.org/c185592680,Chemistry,chemistry,0,https://www.wikidata.org/wiki/Q2329,,
+https://openalex.org/c142362112,Art,art,0,https://www.wikidata.org/wiki/Q735,,
+https://openalex.org/c144024400,Sociology,sociology,0,https://www.wikidata.org/wiki/Q21201,,
+https://openalex.org/c127413603,Engineering,engineering,0,https://www.wikidata.org/wiki/Q11023,,
+https://openalex.org/c205649164,Geography,geography,0,https://www.wikidata.org/wiki/Q1071,,
+https://openalex.org/c95457728,History,history,0,https://www.wikidata.org/wiki/Q309,,
+https://openalex.org/c192562407,Materials science,materials science,0,https://www.wikidata.org/wiki/Q228736,,
+https://openalex.org/c121332964,Physics,physics,0,https://www.wikidata.org/wiki/Q413,,
+https://openalex.org/c39432304,Environmental science,environmental science,0,https://www.wikidata.org/wiki/Q188847,,
+https://openalex.org/c6303427,Economic history,economic history,1,https://www.wikidata.org/wiki/Q47398,"Economics, History","https://openalex.org/C162324750, https://openalex.org/C95457728"
+https://openalex.org/c19417346,Pedagogy,pedagogy,1,https://www.wikidata.org/wiki/Q7922,"Psychology, Sociology","https://openalex.org/C15744967, https://openalex.org/C144024400"
+https://openalex.org/c26271046,Economic geography,economic geography,1,https://www.wikidata.org/wiki/Q187097,"Economics, Geography","https://openalex.org/C162324750, https://openalex.org/C205649164"
+https://openalex.org/c2524010,Geometry,geometry,1,https://www.wikidata.org/wiki/Q8087,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c3079626,Quantum electrodynamics,quantum electrodynamics,1,https://www.wikidata.org/wiki/Q234881,Physics,https://openalex.org/C121332964
+https://openalex.org/c46141821,Nuclear magnetic resonance,nuclear magnetic resonance,1,https://www.wikidata.org/wiki/Q209402,Physics,https://openalex.org/C121332964
+https://openalex.org/c61696701,Engineering physics,engineering physics,1,https://www.wikidata.org/wiki/Q770766,"Engineering, Physics","https://openalex.org/C127413603, https://openalex.org/C121332964"
+https://openalex.org/c41895202,Linguistics,linguistics,1,https://www.wikidata.org/wiki/Q8162,Philosophy,https://openalex.org/C138885662
+https://openalex.org/c47768531,Development economics,development economics,1,https://www.wikidata.org/wiki/Q1127188,Economics,https://openalex.org/C162324750
+https://openalex.org/c126348684,Polymer science,polymer science,1,https://www.wikidata.org/wiki/Q3456979,"Chemistry, Materials science","https://openalex.org/C185592680, https://openalex.org/C192562407"
+https://openalex.org/c74909509,Gerontology,gerontology,1,https://www.wikidata.org/wiki/Q10387,Medicine,https://openalex.org/C71924100
+https://openalex.org/c165205528,Seismology,seismology,1,https://www.wikidata.org/wiki/Q83371,Geology,https://openalex.org/C127313418
+https://openalex.org/c107053488,Construction engineering,construction engineering,1,https://www.wikidata.org/wiki/Q2674423,Engineering,https://openalex.org/C127413603
+https://openalex.org/c121864883,Statistical physics,statistical physics,1,https://www.wikidata.org/wiki/Q677916,Physics,https://openalex.org/C121332964
+https://openalex.org/c169760540,Neuroscience,neuroscience,1,https://www.wikidata.org/wiki/Q207011,"Biology, Psychology","https://openalex.org/C86803240, https://openalex.org/C15744967"
+https://openalex.org/c126322002,Internal medicine,internal medicine,1,https://www.wikidata.org/wiki/Q11180,Medicine,https://openalex.org/C71924100
+https://openalex.org/c195094911,Process management,process management,1,https://www.wikidata.org/wiki/Q14167904,"Business, Engineering","https://openalex.org/C144133560, https://openalex.org/C127413603"
+https://openalex.org/c512399662,Family medicine,family medicine,1,https://www.wikidata.org/wiki/Q3505712,Medicine,https://openalex.org/C71924100
+https://openalex.org/c147597530,Computational chemistry,computational chemistry,1,https://www.wikidata.org/wiki/Q369472,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c164705383,Cardiology,cardiology,1,https://www.wikidata.org/wiki/Q10379,Medicine,https://openalex.org/C71924100
+https://openalex.org/c166957645,Archaeology,archaeology,1,https://www.wikidata.org/wiki/Q23498,"Geography, History","https://openalex.org/C205649164, https://openalex.org/C95457728"
+https://openalex.org/c171146098,Automotive engineering,automotive engineering,1,https://www.wikidata.org/wiki/Q124192,Engineering,https://openalex.org/C127413603
+https://openalex.org/c19165224,Anthropology,anthropology,1,https://www.wikidata.org/wiki/Q23404,Sociology,https://openalex.org/C144024400
+https://openalex.org/c29595303,Media studies,media studies,1,https://www.wikidata.org/wiki/Q165650,Sociology,https://openalex.org/C144024400
+https://openalex.org/c29694066,Orthodontics,orthodontics,1,https://www.wikidata.org/wiki/Q118301,Medicine,https://openalex.org/C71924100
+https://openalex.org/c33332235,Theoretical physics,theoretical physics,1,https://www.wikidata.org/wiki/Q18362,Physics,https://openalex.org/C121332964
+https://openalex.org/c54355233,Genetics,genetics,1,https://www.wikidata.org/wiki/Q7162,Biology,https://openalex.org/C86803240
+https://openalex.org/c73484699,Criminology,criminology,1,https://www.wikidata.org/wiki/Q161733,"Psychology, Sociology","https://openalex.org/C15744967, https://openalex.org/C144024400"
+https://openalex.org/c78519656,Mechanical engineering,mechanical engineering,1,https://www.wikidata.org/wiki/Q101333,Engineering,https://openalex.org/C127413603
+https://openalex.org/c112930515,Risk analysis (engineering),risk analysis,1,https://www.wikidata.org/wiki/Q4389547,"Business, Medicine","https://openalex.org/C144133560, https://openalex.org/C71924100"
+https://openalex.org/c162118730,Actuarial science,actuarial science,1,https://www.wikidata.org/wiki/Q1128453,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c11413529,Algorithm,algorithm,1,https://www.wikidata.org/wiki/Q8366,"Computer science, Mathematics","https://openalex.org/C41008148, https://openalex.org/C33923547"
+https://openalex.org/c12554922,Biophysics,biophysics,1,https://www.wikidata.org/wiki/Q7100,Biology,https://openalex.org/C86803240
+https://openalex.org/c13736549,Industrial engineering,industrial engineering,1,https://www.wikidata.org/wiki/Q4489420,Engineering,https://openalex.org/C127413603
+https://openalex.org/c27206212,Theology,theology,1,https://www.wikidata.org/wiki/Q34178,Philosophy,https://openalex.org/C138885662
+https://openalex.org/c29456083,Gynecology,gynecology,1,https://www.wikidata.org/wiki/Q1221899,Medicine,https://openalex.org/C71924100
+https://openalex.org/c41999313,Molecular physics,molecular physics,1,https://www.wikidata.org/wiki/Q489328,"Chemistry, Physics","https://openalex.org/C185592680, https://openalex.org/C121332964"
+https://openalex.org/c24326235,Electronic engineering,electronic engineering,1,https://www.wikidata.org/wiki/Q126095,Engineering,https://openalex.org/C127413603
+https://openalex.org/c42219234,Anesthesia,anesthesia,1,https://www.wikidata.org/wiki/Q131130,Medicine,https://openalex.org/C71924100
+https://openalex.org/c43617362,Chromatography,chromatography,1,https://www.wikidata.org/wiki/Q170050,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c49774154,Multimedia,multimedia,1,https://www.wikidata.org/wiki/Q131765,Computer science,https://openalex.org/C41008148
+https://openalex.org/c77088390,Database,database,1,https://www.wikidata.org/wiki/Q8513,Computer science,https://openalex.org/C41008148
+https://openalex.org/c61434518,General surgery,general surgery,1,https://www.wikidata.org/wiki/Q932510,Medicine,https://openalex.org/C71924100
+https://openalex.org/c126838900,Radiology,radiology,1,https://www.wikidata.org/wiki/Q77604,Medicine,https://openalex.org/C71924100
+https://openalex.org/c105639569,Economic policy,economic policy,1,https://www.wikidata.org/wiki/Q582577,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c108827166,Internet privacy,internet privacy,1,https://www.wikidata.org/wiki/Q175975,Computer science,https://openalex.org/C41008148
+https://openalex.org/c112698675,Advertising,advertising,1,https://www.wikidata.org/wiki/Q37038,Business,https://openalex.org/C144133560
+https://openalex.org/c195244886,Ancient history,ancient history,1,https://www.wikidata.org/wiki/Q41493,History,https://openalex.org/C95457728
+https://openalex.org/c204321447,Natural language processing,natural language processing,1,https://www.wikidata.org/wiki/Q30642,Computer science,https://openalex.org/C41008148
+https://openalex.org/c2522767166,Data science,data science,1,https://www.wikidata.org/wiki/Q2374463,Computer science,https://openalex.org/C41008148
+https://openalex.org/c149635348,Embedded system,embedded system,1,https://www.wikidata.org/wiki/Q193040,"Computer science, Engineering","https://openalex.org/C41008148, https://openalex.org/C127413603"
+https://openalex.org/c154945302,Artificial intelligence,artificial intelligence,1,https://www.wikidata.org/wiki/Q11660,Computer science,https://openalex.org/C41008148
+https://openalex.org/c97355855,Thermodynamics,thermodynamics,1,https://www.wikidata.org/wiki/Q11473,Physics,https://openalex.org/C121332964
+https://openalex.org/c185544564,Nuclear physics,nuclear physics,1,https://www.wikidata.org/wiki/Q81197,Physics,https://openalex.org/C121332964
+https://openalex.org/c187212893,Pediatrics,pediatrics,1,https://www.wikidata.org/wiki/Q123028,Medicine,https://openalex.org/C71924100
+https://openalex.org/c107826830,Environmental resource management,environmental resource management,1,https://www.wikidata.org/wiki/Q929380,"Economics, Environmental science","https://openalex.org/C162324750, https://openalex.org/C39432304"
+https://openalex.org/c524765639,Water resource management,water resource management,1,https://www.wikidata.org/wiki/Q1501619,Environmental science,https://openalex.org/C39432304
+https://openalex.org/c138496976,Developmental psychology,developmental psychology,1,https://www.wikidata.org/wiki/Q175002,Psychology,https://openalex.org/C15744967
+https://openalex.org/c139719470,Macroeconomics,macroeconomics,1,https://www.wikidata.org/wiki/Q39680,Economics,https://openalex.org/C162324750
+https://openalex.org/c199289684,Mineralogy,mineralogy,1,https://www.wikidata.org/wiki/Q83353,"Chemistry, Geology","https://openalex.org/C185592680, https://openalex.org/C127313418"
+https://openalex.org/c505870484,Fishery,fishery,1,https://www.wikidata.org/wiki/Q180538,Biology,https://openalex.org/C86803240
+https://openalex.org/c556758197,Monetary economics,monetary economics,1,https://www.wikidata.org/wiki/Q580018,Economics,https://openalex.org/C162324750
+https://openalex.org/c70410870,Clinical psychology,clinical psychology,1,https://www.wikidata.org/wiki/Q199906,"Medicine, Psychology","https://openalex.org/C71924100, https://openalex.org/C15744967"
+https://openalex.org/c70721500,Computational biology,computational biology,1,https://www.wikidata.org/wiki/Q177005,Biology,https://openalex.org/C86803240
+https://openalex.org/c78458016,Evolutionary biology,evolutionary biology,1,https://www.wikidata.org/wiki/Q840400,Biology,https://openalex.org/C86803240
+https://openalex.org/c79403827,Real-time computing,real time computing,1,https://www.wikidata.org/wiki/Q3988,Computer science,https://openalex.org/C41008148
+https://openalex.org/c105702510,Anatomy,anatomy,1,https://www.wikidata.org/wiki/Q514,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c105795698,Statistics,statistics,1,https://www.wikidata.org/wiki/Q12483,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c120314980,Distributed computing,distributed computing,1,https://www.wikidata.org/wiki/Q180634,Computer science,https://openalex.org/C41008148
+https://openalex.org/c120665830,Optics,optics,1,https://www.wikidata.org/wiki/Q14620,Physics,https://openalex.org/C121332964
+https://openalex.org/c177322064,Radiochemistry,radiochemistry,1,https://www.wikidata.org/wiki/Q750955,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c177713679,Intensive care medicine,intensive care medicine,1,https://www.wikidata.org/wiki/Q679690,Medicine,https://openalex.org/C71924100
+https://openalex.org/c548259974,Audiology,audiology,1,https://www.wikidata.org/wiki/Q569965,Medicine,https://openalex.org/C71924100
+https://openalex.org/c49204034,Climatology,climatology,1,https://www.wikidata.org/wiki/Q52139,Geology,https://openalex.org/C127313418
+https://openalex.org/c114793014,Geomorphology,geomorphology,1,https://www.wikidata.org/wiki/Q52109,Geology,https://openalex.org/C127313418
+https://openalex.org/c147789679,Physical chemistry,physical chemistry,1,https://www.wikidata.org/wiki/Q11372,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c167562979,Classical economics,classical economics,1,https://www.wikidata.org/wiki/Q271857,Economics,https://openalex.org/C162324750
+https://openalex.org/c175444787,Microeconomics,microeconomics,1,https://www.wikidata.org/wiki/Q39072,Economics,https://openalex.org/C162324750
+https://openalex.org/c178790620,Organic chemistry,organic chemistry,1,https://www.wikidata.org/wiki/Q11351,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c188147891,Cognitive science,cognitive science,1,https://www.wikidata.org/wiki/Q147638,Psychology,https://openalex.org/C15744967
+https://openalex.org/c2989005,Nuclear medicine,nuclear medicine,1,https://www.wikidata.org/wiki/Q214963,Medicine,https://openalex.org/C71924100
+https://openalex.org/c9390403,Computer hardware,computer hardware,1,https://www.wikidata.org/wiki/Q3966,Computer science,https://openalex.org/C41008148
+https://openalex.org/c91586092,Atmospheric sciences,atmospheric sciences,1,https://www.wikidata.org/wiki/Q757520,"Geology, Physics","https://openalex.org/C127313418, https://openalex.org/C121332964"
+https://openalex.org/c115903868,Software engineering,software engineering,1,https://www.wikidata.org/wiki/Q80993,"Computer science, Engineering","https://openalex.org/C41008148, https://openalex.org/C127413603"
+https://openalex.org/c134018914,Endocrinology,endocrinology,1,https://www.wikidata.org/wiki/Q162606,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c194828623,Emergency medicine,emergency medicine,1,https://www.wikidata.org/wiki/Q2861470,Medicine,https://openalex.org/C71924100
+https://openalex.org/c199639397,Engineering drawing,engineering drawing,1,https://www.wikidata.org/wiki/Q1788588,Engineering,https://openalex.org/C127413603
+https://openalex.org/c5900021,Petrology,petrology,1,https://www.wikidata.org/wiki/Q163082,Geology,https://openalex.org/C127313418
+https://openalex.org/c21547014,Operations management,operations management,1,https://www.wikidata.org/wiki/Q1423657,"Economics, Engineering","https://openalex.org/C162324750, https://openalex.org/C127413603"
+https://openalex.org/c22212356,Transport engineering,transport engineering,1,https://www.wikidata.org/wiki/Q775325,Engineering,https://openalex.org/C127413603
+https://openalex.org/c31903555,Food science,food science,1,https://www.wikidata.org/wiki/Q1637030,"Biology, Chemistry","https://openalex.org/C86803240, https://openalex.org/C185592680"
+https://openalex.org/c33070731,Toxicology,toxicology,1,https://www.wikidata.org/wiki/Q7218,Biology,https://openalex.org/C86803240
+https://openalex.org/c74916050,Classics,classics,1,https://www.wikidata.org/wiki/Q841090,"Art, History","https://openalex.org/C142362112, https://openalex.org/C95457728"
+https://openalex.org/c94375191,Arithmetic,arithmetic,1,https://www.wikidata.org/wiki/Q11205,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c119767625,Optometry,optometry,1,https://www.wikidata.org/wiki/Q618211,Medicine,https://openalex.org/C71924100
+https://openalex.org/c133731056,Control engineering,control engineering,1,https://www.wikidata.org/wiki/Q4917288,Engineering,https://openalex.org/C127413603
+https://openalex.org/c144237770,Mathematical economics,mathematical economics,1,https://www.wikidata.org/wiki/Q747534,"Economics, Mathematics","https://openalex.org/C162324750, https://openalex.org/C33923547"
+https://openalex.org/c170154142,Architectural engineering,architectural engineering,1,https://www.wikidata.org/wiki/Q150737,Engineering,https://openalex.org/C127413603
+https://openalex.org/c8058405,Geophysics,geophysics,1,https://www.wikidata.org/wiki/Q46255,"Geology, Physics","https://openalex.org/C127313418, https://openalex.org/C121332964"
+https://openalex.org/c24667770,Religious studies,religious studies,1,https://www.wikidata.org/wiki/Q34187,Philosophy,https://openalex.org/C138885662
+https://openalex.org/c46312422,Communication,communication,1,https://www.wikidata.org/wiki/Q11024,"Psychology, Sociology","https://openalex.org/C15744967, https://openalex.org/C144024400"
+https://openalex.org/c49040817,Optoelectronics,optoelectronics,1,https://www.wikidata.org/wiki/Q193091,"Materials science, Physics","https://openalex.org/C192562407, https://openalex.org/C121332964"
+https://openalex.org/c87717796,Environmental engineering,environmental engineering,1,https://www.wikidata.org/wiki/Q146326,"Engineering, Environmental science","https://openalex.org/C127413603, https://openalex.org/C39432304"
+https://openalex.org/c88463610,Agricultural engineering,agricultural engineering,1,https://www.wikidata.org/wiki/Q194118,Engineering,https://openalex.org/C127413603
+https://openalex.org/c111472728,Epistemology,epistemology,1,https://www.wikidata.org/wiki/Q9471,Philosophy,https://openalex.org/C138885662
+https://openalex.org/c95444343,Cell biology,cell biology,1,https://www.wikidata.org/wiki/Q7141,Biology,https://openalex.org/C86803240
+https://openalex.org/c145236788,Labour economics,labour economics,1,https://www.wikidata.org/wiki/Q28161,Economics,https://openalex.org/C162324750
+https://openalex.org/c180747234,Cognitive psychology,cognitive psychology,1,https://www.wikidata.org/wiki/Q23373,Psychology,https://openalex.org/C15744967
+https://openalex.org/c13280743,Geodesy,geodesy,1,https://www.wikidata.org/wiki/Q131089,"Geography, Geology","https://openalex.org/C205649164, https://openalex.org/C127313418"
+https://openalex.org/c18903297,Ecology,ecology,1,https://www.wikidata.org/wiki/Q7150,Biology,https://openalex.org/C86803240
+https://openalex.org/c24890656,Acoustics,acoustics,1,https://www.wikidata.org/wiki/Q82811,Physics,https://openalex.org/C121332964
+https://openalex.org/c62649853,Remote sensing,remote sensing,1,https://www.wikidata.org/wiki/Q199687,"Geography, Geology","https://openalex.org/C205649164, https://openalex.org/C127313418"
+https://openalex.org/c118552586,Psychiatry,psychiatry,1,https://www.wikidata.org/wiki/Q7867,"Medicine, Psychology","https://openalex.org/C71924100, https://openalex.org/C15744967"
+https://openalex.org/c126255220,Mathematical optimization,mathematical optimization,1,https://www.wikidata.org/wiki/Q141495,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c131872663,Obstetrics,obstetrics,1,https://www.wikidata.org/wiki/Q5284418,Medicine,https://openalex.org/C71924100
+https://openalex.org/c153294291,Meteorology,meteorology,1,https://www.wikidata.org/wiki/Q25261,"Geography, Physics","https://openalex.org/C205649164, https://openalex.org/C121332964"
+https://openalex.org/c87355193,Astrobiology,astrobiology,1,https://www.wikidata.org/wiki/Q411,"Biology, Physics","https://openalex.org/C86803240, https://openalex.org/C121332964"
+https://openalex.org/c144027150,Horticulture,horticulture,1,https://www.wikidata.org/wiki/Q48803,Biology,https://openalex.org/C86803240
+https://openalex.org/c526734887,Environmental protection,environmental protection,1,https://www.wikidata.org/wiki/Q832237,"Environmental science, Geography","https://openalex.org/C39432304, https://openalex.org/C205649164"
+https://openalex.org/c556039675,Traditional medicine,traditional medicine,1,https://www.wikidata.org/wiki/Q771035,Medicine,https://openalex.org/C71924100
+https://openalex.org/c6557445,Agronomy,agronomy,1,https://www.wikidata.org/wiki/Q173113,Biology,https://openalex.org/C86803240
+https://openalex.org/c15708023,Humanities,humanities,1,https://www.wikidata.org/wiki/Q80083,"Art, Philosophy","https://openalex.org/C142362112, https://openalex.org/C138885662"
+https://openalex.org/c66938386,Structural engineering,structural engineering,1,https://www.wikidata.org/wiki/Q633538,Engineering,https://openalex.org/C127413603
+https://openalex.org/c80444323,Theoretical computer science,theoretical computer science,1,https://www.wikidata.org/wiki/Q2878974,Computer science,https://openalex.org/C41008148
+https://openalex.org/c90856448,Zoology,zoology,1,https://www.wikidata.org/wiki/Q431,Biology,https://openalex.org/C86803240
+https://openalex.org/c116915560,Nuclear engineering,nuclear engineering,1,https://www.wikidata.org/wiki/Q83504,Engineering,https://openalex.org/C127413603
+https://openalex.org/c118524514,Computer architecture,computer architecture,1,https://www.wikidata.org/wiki/Q173212,Computer science,https://openalex.org/C41008148
+https://openalex.org/c121684516,Computer graphics (images),computer graphics images,1,https://www.wikidata.org/wiki/Q7600677,Computer science,https://openalex.org/C41008148
+https://openalex.org/c136229726,Biomedical engineering,biomedical engineering,1,https://www.wikidata.org/wiki/Q327092,"Engineering, Medicine","https://openalex.org/C127413603, https://openalex.org/C71924100"
+https://openalex.org/c175605778,Natural resource economics,natural resource economics,1,https://www.wikidata.org/wiki/Q3299701,Economics,https://openalex.org/C162324750
+https://openalex.org/c528095902,Pulp and paper industry,pulp and paper industry,1,https://www.wikidata.org/wiki/Q2283886,Engineering,https://openalex.org/C127413603
+https://openalex.org/c542102704,Psychotherapist,psychotherapist,1,https://www.wikidata.org/wiki/Q183257,Psychology,https://openalex.org/C15744967
+https://openalex.org/c1276947,Astronomy,astronomy,1,https://www.wikidata.org/wiki/Q333,Physics,https://openalex.org/C121332964
+https://openalex.org/c2549261,Ethnology,ethnology,1,https://www.wikidata.org/wiki/Q43455,"History, Sociology","https://openalex.org/C95457728, https://openalex.org/C144024400"
+https://openalex.org/c36289849,Social science,social science,1,https://www.wikidata.org/wiki/Q34749,Sociology,https://openalex.org/C144024400
+https://openalex.org/c45355965,Socioeconomics,socioeconomics,1,https://www.wikidata.org/wiki/Q1643441,"Economics, Sociology","https://openalex.org/C162324750, https://openalex.org/C144024400"
+https://openalex.org/c75630572,Applied psychology,applied psychology,1,https://www.wikidata.org/wiki/Q538904,Psychology,https://openalex.org/C15744967
+https://openalex.org/c138921699,Political economy,political economy,1,https://www.wikidata.org/wiki/Q47555,"Economics, Sociology","https://openalex.org/C162324750, https://openalex.org/C144024400"
+https://openalex.org/c147176958,Civil engineering,civil engineering,1,https://www.wikidata.org/wiki/Q77590,Engineering,https://openalex.org/C127413603
+https://openalex.org/c539667460,Management science,management science,1,https://www.wikidata.org/wiki/Q2414942,"Economics, Engineering","https://openalex.org/C162324750, https://openalex.org/C127413603"
+https://openalex.org/c1862650,Physical therapy,physical therapy,1,https://www.wikidata.org/wiki/Q186005,Medicine,https://openalex.org/C71924100
+https://openalex.org/c30475298,Computational physics,computational physics,1,https://www.wikidata.org/wiki/Q909554,Physics,https://openalex.org/C121332964
+https://openalex.org/c50522688,Economic growth,economic growth,1,https://www.wikidata.org/wiki/Q189833,Economics,https://openalex.org/C162324750
+https://openalex.org/c54286561,Agroforestry,agroforestry,1,https://www.wikidata.org/wiki/Q397350,"Biology, Environmental science","https://openalex.org/C86803240, https://openalex.org/C39432304"
+https://openalex.org/c73283319,Financial system,financial system,1,https://www.wikidata.org/wiki/Q1416617,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c110354214,Engineering management,engineering management,1,https://www.wikidata.org/wiki/Q6314146,Engineering,https://openalex.org/C127413603
+https://openalex.org/c133425853,Neoclassical economics,neoclassical economics,1,https://www.wikidata.org/wiki/Q60571,Economics,https://openalex.org/C162324750
+https://openalex.org/c159110408,Nursing,nursing,1,https://www.wikidata.org/wiki/Q121176,Medicine,https://openalex.org/C71924100
+https://openalex.org/c159467904,Chemical physics,chemical physics,1,https://www.wikidata.org/wiki/Q2001702,"Chemistry, Physics","https://openalex.org/C185592680, https://openalex.org/C121332964"
+https://openalex.org/c190253527,Law and economics,law and economics,1,https://www.wikidata.org/wiki/Q295354,"Economics, Sociology","https://openalex.org/C162324750, https://openalex.org/C144024400"
+https://openalex.org/c199539241,Law,law,1,https://www.wikidata.org/wiki/Q7748,Political science,https://openalex.org/C17744445
+https://openalex.org/c8010536,Crystallography,crystallography,1,https://www.wikidata.org/wiki/Q160398,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c77595967,Forensic engineering,forensic engineering,1,https://www.wikidata.org/wiki/Q3151013,Engineering,https://openalex.org/C127413603
+https://openalex.org/c136264566,Economy,economy,1,https://www.wikidata.org/wiki/Q159810,Economics,https://openalex.org/C162324750
+https://openalex.org/c153349607,Visual arts,visual arts,1,https://www.wikidata.org/wiki/Q36649,Art,https://openalex.org/C142362112
+https://openalex.org/c159390177,Soil science,soil science,1,https://www.wikidata.org/wiki/Q9161265,"Environmental science, Geology","https://openalex.org/C39432304, https://openalex.org/C127313418"
+https://openalex.org/c161191863,Library science,library science,1,https://www.wikidata.org/wiki/Q199655,Computer science,https://openalex.org/C41008148
+https://openalex.org/c162853370,Marketing,marketing,1,https://www.wikidata.org/wiki/Q39809,Business,https://openalex.org/C144133560
+https://openalex.org/c165556158,Keynesian economics,keynesian economics,1,https://www.wikidata.org/wiki/Q83937,Economics,https://openalex.org/C162324750
+https://openalex.org/c179104552,Inorganic chemistry,inorganic chemistry,1,https://www.wikidata.org/wiki/Q11165,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c188027245,Polymer chemistry,polymer chemistry,1,https://www.wikidata.org/wiki/Q750446,"Chemistry, Materials science","https://openalex.org/C185592680, https://openalex.org/C192562407"
+https://openalex.org/c97137747,Forestry,forestry,1,https://www.wikidata.org/wiki/Q38112,Geography,https://openalex.org/C205649164
+https://openalex.org/c100970517,Physical geography,physical geography,1,https://www.wikidata.org/wiki/Q52107,Geography,https://openalex.org/C205649164
+https://openalex.org/c118487528,Ophthalmology,ophthalmology,1,https://www.wikidata.org/wiki/Q161437,Medicine,https://openalex.org/C71924100
+https://openalex.org/c148383697,Regional science,regional science,1,https://www.wikidata.org/wiki/Q1781695,"Geography, Sociology","https://openalex.org/C205649164, https://openalex.org/C144024400"
+https://openalex.org/c151730666,Paleontology,paleontology,1,https://www.wikidata.org/wiki/Q7205,"Biology, Geology","https://openalex.org/C86803240, https://openalex.org/C127313418"
+https://openalex.org/c40700,Industrial organization,industrial organization,1,https://www.wikidata.org/wiki/Q1411783,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c4249254,Demographic economics,demographic economics,1,https://www.wikidata.org/wiki/Q3044431,Economics,https://openalex.org/C162324750
+https://openalex.org/c16674752,Mining engineering,mining engineering,1,https://www.wikidata.org/wiki/Q1370637,"Engineering, Geology","https://openalex.org/C127413603, https://openalex.org/C127313418"
+https://openalex.org/c21951064,Combinatorial chemistry,combinatorial chemistry,1,https://www.wikidata.org/wiki/Q899212,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c44154836,Simulation,simulation,1,https://www.wikidata.org/wiki/Q45045,"Computer science, Engineering","https://openalex.org/C41008148, https://openalex.org/C127413603"
+https://openalex.org/c48824518,Agricultural economics,agricultural economics,1,https://www.wikidata.org/wiki/Q396340,Economics,https://openalex.org/C162324750
+https://openalex.org/c76155785,Telecommunications,telecommunications,1,https://www.wikidata.org/wiki/Q418,"Computer science, Engineering","https://openalex.org/C41008148, https://openalex.org/C127413603"
+https://openalex.org/c111919701,Operating system,operating system,1,https://www.wikidata.org/wiki/Q9135,Computer science,https://openalex.org/C41008148
+https://openalex.org/c118615104,Discrete mathematics,discrete mathematics,1,https://www.wikidata.org/wiki/Q121416,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c136764020,World Wide Web,world wide web,1,https://www.wikidata.org/wiki/Q466,Computer science,https://openalex.org/C41008148
+https://openalex.org/c145420912,Mathematics education,mathematics education,1,https://www.wikidata.org/wiki/Q853077,"Mathematics, Psychology","https://openalex.org/C33923547, https://openalex.org/C15744967"
+https://openalex.org/c150903083,Biotechnology,biotechnology,1,https://www.wikidata.org/wiki/Q7108,Biology,https://openalex.org/C86803240
+https://openalex.org/c173608175,Parallel computing,parallel computing,1,https://www.wikidata.org/wiki/Q232661,Computer science,https://openalex.org/C41008148
+https://openalex.org/c178550888,Business administration,business administration,1,https://www.wikidata.org/wiki/Q2043282,Business,https://openalex.org/C144133560
+https://openalex.org/c184779094,Atomic physics,atomic physics,1,https://www.wikidata.org/wiki/Q26383,Physics,https://openalex.org/C121332964
+https://openalex.org/c187736073,Management,management,1,https://www.wikidata.org/wiki/Q2920921,Economics,https://openalex.org/C162324750
+https://openalex.org/c201995342,Systems engineering,systems engineering,1,https://www.wikidata.org/wiki/Q682496,Engineering,https://openalex.org/C127413603
+https://openalex.org/c548081761,Waste management,waste management,1,https://www.wikidata.org/wiki/Q180388,Engineering,https://openalex.org/C127413603
+https://openalex.org/c10138342,Finance,finance,1,https://www.wikidata.org/wiki/Q43015,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c58640448,Cartography,cartography,1,https://www.wikidata.org/wiki/Q42515,Geography,https://openalex.org/C205649164
+https://openalex.org/c459310,Computational science,computational science,1,https://www.wikidata.org/wiki/Q117801,"Computer science, Mathematics","https://openalex.org/C41008148, https://openalex.org/C33923547"
+https://openalex.org/c74363100,Economic system,economic system,1,https://www.wikidata.org/wiki/Q273005,Economics,https://openalex.org/C162324750
+https://openalex.org/c107993555,Gender studies,gender studies,1,https://www.wikidata.org/wiki/Q1662673,Sociology,https://openalex.org/C144024400
+https://openalex.org/c117671659,Manufacturing engineering,manufacturing engineering,1,https://www.wikidata.org/wiki/Q11049265,Engineering,https://openalex.org/C127413603
+https://openalex.org/c16005928,Dermatology,dermatology,1,https://www.wikidata.org/wiki/Q171171,Medicine,https://openalex.org/C71924100
+https://openalex.org/c23123220,Information retrieval,information retrieval,1,https://www.wikidata.org/wiki/Q816826,Computer science,https://openalex.org/C41008148
+https://openalex.org/c38652104,Computer security,computer security,1,https://www.wikidata.org/wiki/Q3510521,Computer science,https://openalex.org/C41008148
+https://openalex.org/c55493867,Biochemistry,biochemistry,1,https://www.wikidata.org/wiki/Q7094,"Biology, Chemistry","https://openalex.org/C86803240, https://openalex.org/C185592680"
+https://openalex.org/c56739046,Knowledge management,knowledge management,1,https://www.wikidata.org/wiki/Q192060,Computer science,https://openalex.org/C41008148
+https://openalex.org/c57879066,Mechanics,mechanics,1,https://www.wikidata.org/wiki/Q41217,Physics,https://openalex.org/C121332964
+https://openalex.org/c202444582,Pure mathematics,pure mathematics,1,https://www.wikidata.org/wiki/Q837863,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c502942594,Cancer research,cancer research,1,https://www.wikidata.org/wiki/Q3421914,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c98274493,Pharmacology,pharmacology,1,https://www.wikidata.org/wiki/Q128406,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c106159729,Financial economics,financial economics,1,https://www.wikidata.org/wiki/Q2294553,Economics,https://openalex.org/C162324750
+https://openalex.org/c140793950,Animal science,animal science,1,https://www.wikidata.org/wiki/Q168091,Biology,https://openalex.org/C86803240
+https://openalex.org/c11171543,Psychoanalysis,psychoanalysis,1,https://www.wikidata.org/wiki/Q41630,Psychology,https://openalex.org/C15744967
+https://openalex.org/c13965031,Nuclear chemistry,nuclear chemistry,1,https://www.wikidata.org/wiki/Q243545,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c18547055,International economics,international economics,1,https://www.wikidata.org/wiki/Q47417,Economics,https://openalex.org/C162324750
+https://openalex.org/c31972630,Computer vision,computer vision,1,https://www.wikidata.org/wiki/Q844240,Computer science,https://openalex.org/C41008148
+https://openalex.org/c59822182,Botany,botany,1,https://www.wikidata.org/wiki/Q441,Biology,https://openalex.org/C86803240
+https://openalex.org/c62520636,Quantum mechanics,quantum mechanics,1,https://www.wikidata.org/wiki/Q944,Physics,https://openalex.org/C121332964
+https://openalex.org/c99508421,Physical medicine and rehabilitation,physical medicine and rehabilitation,1,https://www.wikidata.org/wiki/Q2678675,Medicine,https://openalex.org/C71924100
+https://openalex.org/c124101348,Data mining,data mining,1,https://www.wikidata.org/wiki/Q172491,Computer science,https://openalex.org/C41008148
+https://openalex.org/c149782125,Econometrics,econometrics,1,https://www.wikidata.org/wiki/Q160039,"Economics, Mathematics","https://openalex.org/C162324750, https://openalex.org/C33923547"
+https://openalex.org/c159985019,Composite material,composite material,1,https://www.wikidata.org/wiki/Q181790,Materials science,https://openalex.org/C192562407
+https://openalex.org/c549774020,Welfare economics,welfare economics,1,https://www.wikidata.org/wiki/Q851147,Economics,https://openalex.org/C162324750
+https://openalex.org/c16685009,Andrology,andrology,1,https://www.wikidata.org/wiki/Q335057,Medicine,https://openalex.org/C71924100
+https://openalex.org/c28490314,Speech recognition,speech recognition,1,https://www.wikidata.org/wiki/Q189436,Computer science,https://openalex.org/C41008148
+https://openalex.org/c37621935,Agricultural science,agricultural science,1,https://www.wikidata.org/wiki/Q3606845,"Biology, Environmental science","https://openalex.org/C86803240, https://openalex.org/C39432304"
+https://openalex.org/c42475967,Operations research,operations research,1,https://www.wikidata.org/wiki/Q194292,"Engineering, Mathematics","https://openalex.org/C127413603, https://openalex.org/C33923547"
+https://openalex.org/c53553401,Genealogy,genealogy,1,https://www.wikidata.org/wiki/Q47307,History,https://openalex.org/C95457728
+https://openalex.org/c90924648,Gastroenterology,gastroenterology,1,https://www.wikidata.org/wiki/Q120569,Medicine,https://openalex.org/C71924100
+https://openalex.org/c121955636,Accounting,accounting,1,https://www.wikidata.org/wiki/Q4116214,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c124952713,Literature,literature,1,https://www.wikidata.org/wiki/Q8242,Art,https://openalex.org/C142362112
+https://openalex.org/c171250308,Nanotechnology,nanotechnology,1,https://www.wikidata.org/wiki/Q11468,Materials science,https://openalex.org/C192562407
+https://openalex.org/c199104240,Marine engineering,marine engineering,1,https://www.wikidata.org/wiki/Q118291,Engineering,https://openalex.org/C127413603
+https://openalex.org/c200601418,Reliability engineering,reliability engineering,1,https://www.wikidata.org/wiki/Q2193887,Engineering,https://openalex.org/C127413603
+https://openalex.org/c37914503,Mathematical physics,mathematical physics,1,https://www.wikidata.org/wiki/Q156495,"Mathematics, Physics","https://openalex.org/C33923547, https://openalex.org/C121332964"
+https://openalex.org/c71240020,Stereochemistry,stereochemistry,1,https://www.wikidata.org/wiki/Q186011,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c74650414,Classical mechanics,classical mechanics,1,https://www.wikidata.org/wiki/Q11397,Physics,https://openalex.org/C121332964
+https://openalex.org/c113775141,Computer engineering,computer engineering,1,https://www.wikidata.org/wiki/Q428691,"Computer science, Engineering","https://openalex.org/C41008148, https://openalex.org/C127413603"
+https://openalex.org/c199360897,Programming language,programming language,1,https://www.wikidata.org/wiki/Q9143,Computer science,https://openalex.org/C41008148
+https://openalex.org/c3116431,Public administration,public administration,1,https://www.wikidata.org/wiki/Q31728,Political science,https://openalex.org/C17744445
+https://openalex.org/c42972112,Veterinary medicine,veterinary medicine,1,https://www.wikidata.org/wiki/Q170201,Medicine,https://openalex.org/C71924100
+https://openalex.org/c44870925,Astrophysics,astrophysics,1,https://www.wikidata.org/wiki/Q37547,Physics,https://openalex.org/C121332964
+https://openalex.org/c89423630,Microbiology,microbiology,1,https://www.wikidata.org/wiki/Q7193,Biology,https://openalex.org/C86803240
+https://openalex.org/c100001284,Public economics,public economics,1,https://www.wikidata.org/wiki/Q2248246,Economics,https://openalex.org/C162324750
+https://openalex.org/c107457646,Human‚Äìcomputer interaction,human computer interaction,1,https://www.wikidata.org/wiki/Q207434,Computer science,https://openalex.org/C41008148
+https://openalex.org/c155647269,Medicinal chemistry,medicinal chemistry,1,https://www.wikidata.org/wiki/Q243455,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c191897082,Metallurgy,metallurgy,1,https://www.wikidata.org/wiki/Q11467,Materials science,https://openalex.org/C192562407
+https://openalex.org/c509550671,Medical education,medical education,1,https://www.wikidata.org/wiki/Q126945,Medicine,https://openalex.org/C71924100
+https://openalex.org/c19527891,Medical physics,medical physics,1,https://www.wikidata.org/wiki/Q1120908,"Medicine, Physics","https://openalex.org/C71924100, https://openalex.org/C121332964"
+https://openalex.org/c31258907,Computer network,computer network,1,https://www.wikidata.org/wiki/Q1301371,Computer science,https://openalex.org/C41008148
+https://openalex.org/c34447519,Market economy,market economy,1,https://www.wikidata.org/wiki/Q179522,Economics,https://openalex.org/C162324750
+https://openalex.org/c39549134,Public relations,public relations,1,https://www.wikidata.org/wiki/Q133080,Political science,https://openalex.org/C17744445
+https://openalex.org/c42407357,Physiology,physiology,1,https://www.wikidata.org/wiki/Q521,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c55587333,Engineering ethics,engineering ethics,1,https://www.wikidata.org/wiki/Q1133029,Engineering,https://openalex.org/C127413603
+https://openalex.org/c78762247,Petroleum engineering,petroleum engineering,1,https://www.wikidata.org/wiki/Q1273174,"Engineering, Geology","https://openalex.org/C127413603, https://openalex.org/C127313418"
+https://openalex.org/c118084267,Positive economics,positive economics,1,https://www.wikidata.org/wiki/Q26110,Economics,https://openalex.org/C162324750
+https://openalex.org/c141071460,Surgery,surgery,1,https://www.wikidata.org/wiki/Q40821,Medicine,https://openalex.org/C71924100
+https://openalex.org/c149923435,Demography,demography,1,https://www.wikidata.org/wiki/Q37732,Sociology,https://openalex.org/C144024400
+https://openalex.org/c178802073,Aeronautics,aeronautics,1,https://www.wikidata.org/wiki/Q8421,Engineering,https://openalex.org/C127413603
+https://openalex.org/c199343813,Dentistry,dentistry,1,https://www.wikidata.org/wiki/Q12128,Medicine,https://openalex.org/C71924100
+https://openalex.org/c119857082,Machine learning,machine learning,1,https://www.wikidata.org/wiki/Q2539,Computer science,https://openalex.org/C41008148
+https://openalex.org/c42360764,Chemical engineering,chemical engineering,1,https://www.wikidata.org/wiki/Q83588,Engineering,https://openalex.org/C127413603
+https://openalex.org/c60644358,Bioinformatics,bioinformatics,1,https://www.wikidata.org/wiki/Q128570,Biology,https://openalex.org/C86803240
+https://openalex.org/c77805123,Social psychology,social psychology,1,https://www.wikidata.org/wiki/Q161272,Psychology,https://openalex.org/C15744967
+https://openalex.org/c99454951,Environmental health,environmental health,1,https://www.wikidata.org/wiki/Q932068,Medicine,https://openalex.org/C71924100
+https://openalex.org/c545542383,Medical emergency,medical emergency,1,https://www.wikidata.org/wiki/Q2751242,Medicine,https://openalex.org/C71924100
+https://openalex.org/c21880701,Process engineering,process engineering,1,https://www.wikidata.org/wiki/Q2144042,Engineering,https://openalex.org/C127413603
+https://openalex.org/c26873012,Condensed matter physics,condensed matter physics,1,https://www.wikidata.org/wiki/Q214781,Physics,https://openalex.org/C121332964
+https://openalex.org/c75473681,Photochemistry,photochemistry,1,https://www.wikidata.org/wiki/Q188651,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c107038049,Aesthetics,aesthetics,1,https://www.wikidata.org/wiki/Q35986,"Art, Philosophy","https://openalex.org/C142362112, https://openalex.org/C138885662"
+https://openalex.org/c111368507,Oceanography,oceanography,1,https://www.wikidata.org/wiki/Q43518,Geology,https://openalex.org/C127313418
+https://openalex.org/c126894567,Urology,urology,1,https://www.wikidata.org/wiki/Q105650,Medicine,https://openalex.org/C71924100
+https://openalex.org/c142724271,Pathology,pathology,1,https://www.wikidata.org/wiki/Q7208,Medicine,https://openalex.org/C71924100
+https://openalex.org/c155202549,International trade,international trade,1,https://www.wikidata.org/wiki/Q178803,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c186060115,Biological system,biological system,1,https://www.wikidata.org/wiki/Q30336093,Biology,https://openalex.org/C86803240
+https://openalex.org/c187320778,Geotechnical engineering,geotechnical engineering,1,https://www.wikidata.org/wiki/Q1349130,"Engineering, Geology","https://openalex.org/C127413603, https://openalex.org/C127313418"
+https://openalex.org/c203014093,Immunology,immunology,1,https://www.wikidata.org/wiki/Q101929,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c28826006,Applied mathematics,applied mathematics,1,https://www.wikidata.org/wiki/Q33521,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c95124753,Environmental ethics,environmental ethics,1,https://www.wikidata.org/wiki/Q875686,Philosophy,https://openalex.org/C138885662
+https://openalex.org/c114614502,Combinatorics,combinatorics,1,https://www.wikidata.org/wiki/Q76592,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c119599485,Electrical engineering,electrical engineering,1,https://www.wikidata.org/wiki/Q43035,Engineering,https://openalex.org/C127413603
+https://openalex.org/c134306372,Mathematical analysis,mathematical analysis,1,https://www.wikidata.org/wiki/Q7754,Mathematics,https://openalex.org/C33923547
+https://openalex.org/c134560507,Environmental economics,environmental economics,1,https://www.wikidata.org/wiki/Q753291,Economics,https://openalex.org/C162324750
+https://openalex.org/c143998085,Oncology,oncology,1,https://www.wikidata.org/wiki/Q162555,Medicine,https://openalex.org/C71924100
+https://openalex.org/c159047783,Virology,virology,1,https://www.wikidata.org/wiki/Q7215,"Biology, Medicine","https://openalex.org/C86803240, https://openalex.org/C71924100"
+https://openalex.org/c1965285,Earth science,earth science,1,https://www.wikidata.org/wiki/Q8008,Geology,https://openalex.org/C127313418
+https://openalex.org/c17409809,Geochemistry,geochemistry,1,https://www.wikidata.org/wiki/Q161764,Geology,https://openalex.org/C127313418
+https://openalex.org/c52119013,Art history,art history,1,https://www.wikidata.org/wiki/Q50637,"Art, History","https://openalex.org/C142362112, https://openalex.org/C95457728"
+https://openalex.org/c54750564,Commerce,commerce,1,https://www.wikidata.org/wiki/Q26643,"Business, Economics","https://openalex.org/C144133560, https://openalex.org/C162324750"
+https://openalex.org/c91375879,Environmental planning,environmental planning,1,https://www.wikidata.org/wiki/Q15473274,"Environmental science, Geography","https://openalex.org/C39432304, https://openalex.org/C205649164"
+https://openalex.org/c107872376,Environmental chemistry,environmental chemistry,1,https://www.wikidata.org/wiki/Q321355,Chemistry,https://openalex.org/C185592680
+https://openalex.org/c109214941,Particle physics,particle physics,1,https://www.wikidata.org/wiki/Q18334,Physics,https://openalex.org/C121332964
+https://openalex.org/c146978453,Aerospace engineering,aerospace engineering,1,https://www.wikidata.org/wiki/Q3798668,Engineering,https://openalex.org/C127413603
+https://openalex.org/c153911025,Molecular biology,molecular biology,1,https://www.wikidata.org/wiki/Q7202,Biology,https://openalex.org/C86803240
+https://openalex.org/c183696295,Biochemical engineering,biochemical engineering,1,https://www.wikidata.org/wiki/Q2487696,Engineering,https://openalex.org/C127413603
