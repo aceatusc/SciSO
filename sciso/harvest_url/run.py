@@ -122,14 +122,14 @@ class HarvestPubUrl(Orchestrator):
 if __name__ == "__main__":
     tasks = [
         "origin",
-        # "patch",
-        # "memento",
+        "patch",
+        "memento",
         "extract",
         "grobid",
         "openalex",
-        # "crossref",
+        "crossref",
         "s2",
-    ]  # Add "s2"
+    ]
     handler = [f"harvest_{task}" for task in tasks]
 
     parser = argparse.ArgumentParser()

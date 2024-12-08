@@ -147,8 +147,6 @@ if __name__ == "__main__":
     parser.add_argument("-t", "--total", default=None)
     args = parser.parse_args()
 
-    # the input tables should be transformed into line-limited json format first (e.g., using jq)
-    # you can find processed datasets (updated on sep 2023) in the 'sciso-backup' bucket
     if not args.total:
         total = count_lines(args.filepath)
         print(f"Total lines: {total}")
