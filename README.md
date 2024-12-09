@@ -1,8 +1,6 @@
 # SciSO: Mining Science in StackOverflow
 Dataset: https://doi.org/10.6084/m9.figshare.27967092
 
-Code: We are still cleaning the codebase. Will be uploaded before Dec. 8
-
 SciSO provides an open-source toolkit for identifying academic citations in the form of hyperlinks from any dataset. This is provided as a Python codebase that can be run on any Stack Overflow data dump, and can also be adapted to other datasets. This pipeline involves multiple steps -
 
 1. Preprocessing the data-dump into jsonl format
@@ -56,7 +54,7 @@ From the `urls` collection, we can now apply our heuristics to consider only tho
 python extract.py --db <databse_name>
 ```
 
-Here, the `<database_name>` refers to the name you have given to your database. After this step, you should have a `candidate_urls` collection in your database. This collection contains the URLs found on any SO post across its edit history which is likely to be academic.
+Here, the `<database_name>` refers to the name you have given your database. After this step, you should have a `candidate_urls` collection in your database. This collection contains the URLs found on any SO post across its edit history which is likely to be academic.
 
 ## 5. Verifying candidate URLs to get academic URLs
 We can now verify each URL in the `candidate_urls` collection using academic databases like OpenAlex, SemanticScholar, and Crossref. This is done by the `sciso/harvest_url/run.py` file.
@@ -117,7 +115,7 @@ We can then perform a join between the `pub_urls` and the `candidate_urls` colle
 python join.py
 ```
 
-This script takes no arguments, and simply performs a join between the `candidate_urls` and the `pub_urls` collections. After this step, you should have a `pub_refs` collection in your database which contains the final SciSO dataset.
+This script takes no arguments, and simply performs a join between the `candidate_urls` and the `pub_urls` collections while aggregating any metadata found in duplicate entries. After this step, you should have a `pub_refs` collection in your database which contains the final SciSO dataset.
 
 ## 8. Exporting the finished dataset
 The SciSO dataset is provided as a jsonl file. This jsonl file can be generated from the `pub_refs` collection using `mongoexport`.
@@ -129,3 +127,45 @@ mongoexport --db <database_name> --collection pub_refs --out <output_path>.jsonl
 This gives the SciSO dataset!
 
 # Dataset Schema
+
+The data is structured in Line-delimited JSON (JSONL) format. Each line contains data about the post which references the academic URL and the metadata of the academic reference itself. Fields in the dataset are described below.
+
+- AddedAt  
+  The time when the post was added on SO
+- AddedBy
+- AnswerCount  
+  The number of undeleted answers
+- CommentCount
+- FavoriteCount
+- History  
+  Type of edits (e.g., initial, edit title, edit body, etc.). Corresponding to the `PostHistoryTypeId` field in the [`StackOverflow-PostHistory`](https://archive.org/download/stackexchange/stackoverflow.com-PostHistory.7z) table of the official Stack Exchange data dump. See [here](https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede) for details.
+- LinkType  
+  The type of link ("pdf" or "url")
+- metadata
+  - title
+  - authors
+  - normalized_venue
+    <small>Normalized to the full official name via Semantic Scholar<br>(e.g., ACL -> Annual Meeting of the Association for Computational Linguistics)</small>
+  - open_access  
+    <small>Whether the referenced article is publicly accessible</small>
+  - citation_count
+  - abstract
+  - type
+  - external_ids
+  - year
+  - concepts
+  - venue
+  - year
+- PostId  
+  ID of the post containing this academic reference. Corresponding to the `Id` field in the [`StackOverflow-posts`](https://archive.org/download/stackexchange/stackoverflow.com-Posts.7z) table of the official Stack Exchange data dump.  
+  _e.g.,_ [`74109833`](https://stackoverflow.com/questions/74109833/how-to-set-learning-rate-0-2-when-training-transformer-with-noam-decay) <small>(click to see the original post on Stack Overflow)</small>
+- PostTypeId
+- RevisionId  
+  We collected URLs from every historic version of a post. RevisionId is the ID of the changelog where we found this academic reference. Corresponding to the `Id` field in the [`StackOverflow-PostHistory`](https://archive.org/download/stackexchange/stackoverflow.com-PostHistory.7z) table of the official Stack Exchange data dump.  
+  _e.g.,_ `280345137`
+- Score
+- Source  
+  The source on which this URL is hosted
+- Url  
+  The URL of the academic reference.  
+  _e.g.,_ [`https://aclanthology.org/C18-1054.pdf`](https://aclanthology.org/C18-1054.pdf)
